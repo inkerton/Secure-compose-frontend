@@ -12,4 +12,9 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+/** module.exports = nextConfig; */
+module.exports = {
+  reactStrictMode: true,
+  output: 'standalone',
+};
+
