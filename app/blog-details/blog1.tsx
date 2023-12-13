@@ -144,7 +144,7 @@ const BlogDetailsPage = () => {
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Imagine building a house without knowing what bricks you used. Sounds crazy, right? That's essentially what many developers and small businesses face in today's complex software landscape. Hidden dependencies, lurking vulnerabilities, and inefficient workflows can feel like navigating a code-filled maze.
-                    <br>But fear not, intrepid pioneers! Enter the Software Bill of Materials (SBOM), your shining beacon of transparency, security, and agility. It's like an X-ray for your software, revealing every component and its origins, empowering you to build better, faster, and more secure software.
+                    <br>But fear not, intrepid pioneers! Enter the Software Bill of Materials (SBOM), your shining beacon of transparency, security, and agility. It's like an X-ray for your software, revealing every component and its origins, empowering you to build better, faster, and more secure software.</br>
                     <br><span className="text-primary underline dark:text-white">
                       SBOM is a saviour for developers
                     </span></br>
