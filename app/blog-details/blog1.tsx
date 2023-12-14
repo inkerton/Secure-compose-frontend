@@ -143,8 +143,8 @@ const BlogDetailsPage = () => {
                     Supercharge Your Software with SBOMs: Benefits for Developers and Small Businesses
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Imagine building a house without knowing what bricks you used. Sounds crazy, right? That's essentially what many developers and small businesses face in today's complex software landscape. Hidden dependencies, lurking vulnerabilities, and inefficient workflows can feel like navigating a code-filled maze.
-                    <br>But fear not, intrepid pioneers! Enter the Software Bill of Materials (SBOM), your shining beacon of transparency, security, and agility. It's like an X-ray for your software, revealing every component and its origins, empowering you to build better, faster, and more secure software.</br>
+                    Imagine building a house without knowing what bricks you used. Sounds crazy, right? That&apos;s essentially what many developers and small businesses face in today&apos;s complex software landscape. Hidden dependencies, lurking vulnerabilities, and inefficient workflows can feel like navigating a code-filled maze.
+                    <br>But fear not, intrepid pioneers! Enter the Software Bill of Materials (SBOM), your shining beacon of transparency, security, and agility. It&apos;s like an X-ray for your software, revealing every component and its origins, empowering you to build better, faster, and more secure software.</br>
                     <br><span className="text-primary underline dark:text-white">
                       SBOM is a saviour for developers
                     </span></br>
@@ -175,10 +175,10 @@ const BlogDetailsPage = () => {
                   </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      Risk Reduction Rocket: Sleep soundly knowing you're compliant with licensing requirements. SBOMs minimize legal headaches and fines, letting you focus on growing your business.
+                      Risk Reduction Rocket: Sleep soundly knowing you&apos;re compliant with licensing requirements. SBOMs minimize legal headaches and fines, letting you focus on growing your business.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      Vulnerability Vanquisher (again!): Data breaches and security nightmares are a small business's worst enemy. SBOMs expose potential threats before they strike, saving you precious time, money, and reputation.
+                      Vulnerability Vanquisher (again!): Data breaches and security nightmares are a small business&apos;s worst enemy. SBOMs expose potential threats before they strike, saving you precious time, money, and reputation.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                       Agility Accelerator: Adapt to market changes with lightning speed. SBOMs streamline software updates and patch management, keeping your business nimble and responsive.
@@ -192,8 +192,8 @@ const BlogDetailsPage = () => {
                   </ul>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                      SBOMs are not just a tech trend; they're a game-changer. Embrace the transparency, security, and agility they offer, and watch your software soar to new heights. 
-                      Remember, with Secure-compose in your arsenal, you're no longer in the dark; you're in control.
+                      SBOMs are not just a tech trend; they&apos;re a game-changer. Embrace the transparency, security, and agility they offer, and watch your software soar to new heights. 
+                      Remember, with Secure-compose in your arsenal, you&apos;re no longer in the dark; you&apos;re in control.
                     </p>
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -337,8 +337,8 @@ const BlogDetailsPage = () => {
                     </span>
                   </div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Ready to join the SBOM revolution? Stay tuned for our next blog post, where we'll dive deeper into the practical implementation of SBOMs for developers and small businesses. 
-                    We'll provide tips, tricks, and resources to help you harness the power of SBOMs and build a future-proof software landscape.
+                    Ready to join the SBOM revolution? Stay tuned for our next blog post, where we&apos;ll dive deeper into the practical implementation of SBOMs for developers and small businesses. 
+                    We&apos;ll provide tips, tricks, and resources to help you harness the power of SBOMs and build a future-proof software landscape.
                   </p>
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
